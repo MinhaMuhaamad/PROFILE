@@ -7,7 +7,7 @@ const projects = [
     title: "E-Commerce Platform",
     description:
       "A full-stack e-commerce solution built with React, Node.js, and MongoDB. Features include user authentication, payment processing, and admin dashboard.",
-    image: "/modern-ecommerce-interface.png",
+    image: "/pro1.jpeg",
     technologies: ["React", "Node.js", "MongoDB", "Stripe"],
     github: "https://github.com/",
     demo: "#",
