@@ -1,16 +1,15 @@
 import { Card, CardTitle } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { ExternalLink, Github } from "lucide-react"
-
 const projects = [
   {
-    title: "E-Commerce Platform",
+    title: "IntelliFit",
     description:
-      "A full-stack e-commerce solution built with React, Node.js, and MongoDB. Features include user authentication, payment processing, and admin dashboard.",
+      "Intellifit is an AI-powered fitness and nutrition platform built to help you achieve your health goals with science-backed personalization and a seamless user experience.",
     image: "/pro1.jpeg",
     technologies: ["React", "Node.js", "MongoDB", "Stripe"],
-    github: "https://github.com/",
-    demo: "#",
+    github: "https://github.com/emaanfatima28/Intellifit/",
+    
     featured: true,
   },
   {
